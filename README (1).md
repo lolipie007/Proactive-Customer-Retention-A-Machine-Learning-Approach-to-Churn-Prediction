@@ -108,12 +108,4 @@ Holdout ROC-AUC Score: 0.9952
 
 ---
 
-## **Contact**
-For any questions or feedback, please reach out to:  
-**[Your Name]**  
-Email: [your-email@example.com]  
-LinkedIn: [Your LinkedIn Profile](#)
-
----
-
 This README serves as a complete guide to understanding and replicating the project workflow.
