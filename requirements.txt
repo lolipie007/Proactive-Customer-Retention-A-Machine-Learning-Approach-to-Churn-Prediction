@@ -1,0 +1,6 @@
+# Core Libraries
+pandas==1.5.3
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.2.2
